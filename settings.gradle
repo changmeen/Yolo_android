@@ -1,0 +1,3 @@
+rootProject.name = "yolo_android"
+include ':app'
+include ':openCVLibrary345'
